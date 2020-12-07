@@ -117,7 +117,7 @@ var Terminal = Terminal || function(cmdLineContainer, outputContainer) {
           output(result);
           break;
         case 'certifications':
-          var result = "<h3>Certifications</h3><p><b>Coursera Deep Learning Specialization</b><br> Rich and varied specialization that gave me knowledge of deep learning from its foundations (neural networks) to its industry applications (Computer Vision, Natural Language Processing,Speech Recognition, etc.).<br> <b>Five courses : </b><br>&nbsp;&nbsp;Neural Networks and DeepLearning<br>&nbsp;&nbsp;Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization<br>&nbsp;&nbsp;Structuring Machine Learning Projects<br>&nbsp;&nbsp;Convolutional NeuralNetworks<br>&nbsp;&nbsp;Sequence Models<br><br> <b>Coursera Natural Language Processing Specialization</b><br> The specialization helped me grasp state-of-the-art deep learning techniques needed to build cutting-edge NLP systems <br> <b>Four Courses : </b><br>&nbsp;&nbspNatural Language Processing with Classification and Vector Spaces<br>&nbsp;&nbspNatural Language Processing with Probabilistic Models <br>&nbsp;&nbspNatural Language Processing with Sequence Models <br>&nbsp;&nbspNatural Language Processing with Attention Models <p>";
+          var result = "<h3>Certifications</h3><p><b>Coursera Deep Learning Specialization</b><br> Rich and varied specialization that gave me knowledge of deep learning from its foundations (neural networks) to its industry applications (Computer Vision, Natural Language Processing,Speech Recognition, etc.).<br> <b>Five courses : </b><br>&nbsp;&nbsp;Neural Networks and DeepLearning<br>&nbsp;&nbsp;Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization<br>&nbsp;&nbsp;Structuring Machine Learning Projects<br>&nbsp;&nbsp;Convolutional NeuralNetworks<br>&nbsp;&nbsp;Sequence Models<br><br> <b>Coursera Natural Language Processing Specialization</b><br> The specialization helped me grasp state-of-the-art deep learning techniques needed to build cutting-edge NLP systems <br> <b>Four Courses : </b><br>&nbsp;&nbspNatural Language Processing with Classification and Vector Spaces<br>&nbsp;&nbspNatural Language Processing with Probabilistic Models <br>&nbsp;&nbspNatural Language Processing with Sequence Models <br>&nbsp;&nbspNatural Language Processing with Attention Models <br><br> <b>Huawei Routing & Switching Certification</b> <p>";
           output(result);
           break;
         case 'projects':
@@ -129,7 +129,7 @@ var Terminal = Terminal || function(cmdLineContainer, outputContainer) {
           output(result);
           break;
         case 'voluntary': 
-          var result = "<h3>Voluntary</h3><p><b>Assistant in a blood donation caravan during weekends of Jul-Aug 2018</b><br><b>Assistant in ’Ftour Al Amal’</b> : Assisted in preparing and providing +1200 daily meals during Ramadan 2017.</p>";
+          var result = "<h3>Voluntary</h3><p><b>Assistant in a blood donation caravan during weekends of Jul-Aug 2018.</b><br><b>Assistant in ’Ftour Al Amal’</b> : Assisted in preparing and providing +1200 daily meals during Ramadan 2017.</p>";
           output(result);
           break;
         case 'contact':
