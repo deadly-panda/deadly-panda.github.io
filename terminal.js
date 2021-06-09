@@ -137,7 +137,7 @@ var Terminal = Terminal || function(cmdLineContainer, outputContainer) {
           output(result);
           break;
         case 'whoami':
-          var result = "<h1>HADDADI Abderrahim</h1><p><h3>Passionate software engineering student during the day, machine learning enthusiast at nights.<br>I find pleasure in learning and helping others.<br>Curious and creative inner child takes command when facing challenges.</h3></p>"
+          var result = "<h1>HADDADI Abderrahim</h1><p><h3>Artificial intelligence researcher during the day, software engineering enthusiast at nights.<br>I find pleasure in learning and helping others.<br>Curious and creative inner child takes command when facing challenges.</h3></p>"
           output(result);
           break;
         default:
